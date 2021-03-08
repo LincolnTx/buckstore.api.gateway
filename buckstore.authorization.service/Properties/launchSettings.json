@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Mock Lambda Test Tool": {
+      "commandName": "Executable",
+      "commandLineArgs": "--port 5050",
+      "workingDirectory": ".\\bin\\$(Configuration)\\netcoreapp3.1",
+      "executablePath": "%USERPROFILE%\\.dotnet\\tools\\dotnet-lambda-test-tool-3.1.exe",
+      "TokenSecret": "b665f456d3ed4bf09a56842e02de8ab7c5f5cc9c138a476e88369ce815effbb5"
+    }
+  }
+}
