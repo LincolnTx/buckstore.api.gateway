@@ -1,4 +1,4 @@
-## Auth
+## Lambda Authorization
 Api gateway usando aws lambda para authenticação e autorização de jwt token
 
 
